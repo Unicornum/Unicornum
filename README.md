@@ -1,7 +1,6 @@
 Создал он землю, траву и деревья; и сказал 'Да будет свет!'; и стал свет, отложенное освещение и затенение, динамические каскадные тени, карты нормалей и pbr-материалы, туман и глубина резкости. И увидел он, что это хорошо:
-https://www.youtube.com/watch?v=QFx0RrqEG5g
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=QFx0RrqEG5g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=QFx0RrqEG5g
 
 ----------------
 
